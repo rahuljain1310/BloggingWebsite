@@ -294,7 +294,7 @@
 		contentWayPoint();
 		burgerMenu();
 
-		clickMenu();
+		// clickMenu();
 		// navActive();
 		navigationSection();
 		// windowScroll();
